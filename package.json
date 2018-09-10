@@ -1,0 +1,9 @@
+{
+  "name": "template1",
+  "version": "0.1.0",
+  "repo": "hcnn/template1",
+  "description": "My little Demo functions",
+  "keywords": ["example", "template package"],
+  "license": "MIT",
+  "src": ["template1.c", "template1.h"]
+}
